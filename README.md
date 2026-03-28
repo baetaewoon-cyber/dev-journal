@@ -10,8 +10,8 @@ Building intelligent systems at the intersection of quantitative finance and AI.
 
 | Metric | Value |
 |--------|-------|
-| Days Active | 0 |
-| Total Sessions | 0 |
+| Days Active | 1 |
+| Total Sessions | 1 |
 | Projects Tracked | 4 |
 
 ## Projects
@@ -25,7 +25,7 @@ Building intelligent systems at the intersection of quantitative finance and AI.
 
 ## Recent Daily Summaries
 
-*No entries yet — first session pending.*
+- [March 28, 2026](sessions/2026-03-28/session-1.md) — Built dev-journal system and /dispatch skill for portable progress tracking
 
 ---
 
