@@ -10,8 +10,8 @@ Building intelligent systems at the intersection of quantitative finance and AI.
 
 | Metric | Value |
 |--------|-------|
-| Days Active | 1 |
-| Total Sessions | 1 |
+| Days Active | 3 |
+| Total Sessions | 5 |
 | Projects Tracked | 4 |
 
 ## Projects
@@ -25,7 +25,9 @@ Building intelligent systems at the intersection of quantitative finance and AI.
 
 ## Recent Daily Summaries
 
-- [March 28, 2026](sessions/2026-03-28/session-1.md) — Built dev-journal system and /dispatch skill for portable progress tracking
+- [March 28, 2026](daily/2026-03-28.md) — Dev-journal system, Logger agent, retroactive logging
+- [March 27, 2026](daily/2026-03-27.md) — Coordinator dual-role redesign, four-step Dispatcher flow
+- [March 26, 2026](daily/2026-03-26.md) — Trading system setup + multi-agent orchestration from scratch
 
 ---
 
