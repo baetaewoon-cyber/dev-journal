@@ -10,8 +10,8 @@ Building intelligent systems at the intersection of quantitative finance and AI.
 
 | Metric | Value |
 |--------|-------|
-| Days Active | 3 |
-| Total Sessions | 5 |
+| Days Active | 4 |
+| Total Sessions | 7 |
 | Projects Tracked | 4 |
 
 ## Projects
@@ -25,6 +25,7 @@ Building intelligent systems at the intersection of quantitative finance and AI.
 
 ## Recent Daily Summaries
 
+- [March 29, 2026](daily/2026-03-29.md) — Agent system v2 with evaluation gates + first XGBoost ML model for dip buying
 - [March 28, 2026](daily/2026-03-28.md) — Dev-journal system, Logger agent, retroactive logging
 - [March 27, 2026](daily/2026-03-27.md) — Coordinator dual-role redesign, four-step Dispatcher flow
 - [March 26, 2026](daily/2026-03-26.md) — Trading system setup + multi-agent orchestration from scratch
